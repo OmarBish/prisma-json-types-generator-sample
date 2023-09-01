@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "omar bishtawi",
   "license": "MIT",
+  "scripts": {
+    "generate": "prisma generate"
+  },
   "devDependencies": {
     "@types/node": "^20.5.7",
     "prisma": "5.1.1",
