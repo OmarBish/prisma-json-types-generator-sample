@@ -1,4 +1,4 @@
-## descrption
+## Description
 this repo was created based using steps in https://www.prisma.io/docs/getting-started/quickstart . 
 
 it was created to replicate the issue mentioned in https://github.com/arthurfiorette/prisma-json-types-generator/issues/142 
